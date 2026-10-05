@@ -15,13 +15,13 @@ Make sure to double check your unit before buying or making one.
 #### IMSAI VDP 40/80 series
 #### Zorba Portable Computer
 #### Intel MDS
-#### Many industrial TTL monitors
+#### Ball & Dotronix TV & TVX Series
 
 ![Intel MDS](intelMDS.jpg)
 
 ## This board is electrically compatible with: (requires physical hardware modifications and custom cables)
 #### Kaypro
-#### Many Dotronix and Ball Bros TTL Chasis
+#### Non TV-Series Dotronix and Ball Bros TTL Chasis
 #### IBM 5151 and clones 
 #### Virtually *any* other monitor or terminal that is monochrome TTL. 
 
