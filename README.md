@@ -3,13 +3,12 @@
 
 An open source clone of a monochrome CRT driver board used in many terminals and computers from the 1970s-1980s. It can drive any digital TTL monochrome monitor from 5" to 12" and 12v and 15v versions are available. This schematic is based off the Ball Bros. Electronic Display Division TV Series.
 
-This board was an option for some terminals, ***but may not be present in your unit*** For example, your DEC VT100 is more likely to have a footprint compatible DEC brand video board.
+This board was an option for some terminals, ***but may not be present in your unit*** For example, your DEC VT100 is more likely to have a footprint compatible DEC brand video board, meaning the input connector and mounting holes are identical.
 Make sure to double check your unit before buying or making one.
-
- 
 
 ## This board is footprint compatible with:
 #### ADM-3a
+#### TEC 535
 #### Infoton/General Terminal Model 100/101
 #### DEC VT-100
 #### IMSAI VDP 40/80 series
